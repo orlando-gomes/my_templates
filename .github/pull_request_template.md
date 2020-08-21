@@ -8,3 +8,15 @@ Describe the changes and motivations for the pull request, unless obvious from t
 - [ ] Verify all copy with a content writer (use [#copy](https:gitub.com) Slack channel for all copy requests).
 - [ ] Test manually.
 - [ ] Get approval from PM and/or stakeholders.
+
+### Pre-merge cheklist
+
+- [ ] ...
+- [ ] ... Verify all copy with a content writer (use [#copy](https:gitub.com) Slack channel for all copy requests).
+- [ ] ...
+
+### Screenshots
+
+| Before | After |
+|--------|-------|
+| Image 1 | Image 2 |
